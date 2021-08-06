@@ -1,0 +1,24 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-Meshingun_Logo_SVG_Smaller {
+  width: 0.8974609375em;
+}
+
+.icon-Meshingun_Name_256_SVG {
+  width: 3.4931640625em;
+}
