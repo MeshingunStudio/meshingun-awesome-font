@@ -25,6 +25,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-Meshingun_Logo_SVG_Smaller:before {
+    content: "\e901";
+}
+
+.icon-Meshingun_Name_256_SVG:before {
+    content: "\e902";
+}
+
 .icon-Unreal_Engine_Logo:before {
-  content: "\e900";
+    content: "\e900";
 }
