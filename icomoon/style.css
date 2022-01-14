@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?4cq38t');
-  src:  url('fonts/icomoon.eot?4cq38t#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?4cq38t') format('truetype'),
-    url('fonts/icomoon.woff?4cq38t') format('woff'),
-    url('fonts/icomoon.svg?4cq38t#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?fmokjk');
+  src:  url('fonts/icomoon.eot?fmokjk#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?fmokjk') format('truetype'),
+    url('fonts/icomoon.woff?fmokjk') format('woff'),
+    url('fonts/icomoon.svg?fmokjk#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-Unity_Logo:before {
+  content: "\e905";
+}
 .icon-Unreal_Engine_Logo_With_Title:before {
   content: "\e904";
 }
